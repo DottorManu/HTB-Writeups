@@ -12,6 +12,7 @@ Personal, no‑frills reports for Hack The Box machines I felt were worth docu
 | Box  | Difficulty | OS    | Write‑up |
 |------|------------|-------|----------|
 | HEAL | Medium     | Linux | [heal.htb.pdf](heal.htb.pdf) |
+| OUTBOUND | Easy | Linux | [outbound.htb.pdf](outbound.htb.pdf) |
 
 Each PDF is self‑contained: enumeration, exploitation, pivoting, privilege escalation, and take‑aways.
 
@@ -20,3 +21,4 @@ Each PDF is self‑contained: enumeration, exploitation, pivoting, privilege esc
 ## 📜 License
 
 MIT. Learn, fork, remix — keep it ethical.
+
